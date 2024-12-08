@@ -1,2 +1,1 @@
-# alx_be_shell
-shell_permissions
+This is a project for alx
